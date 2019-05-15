@@ -15,4 +15,6 @@ Or run the project in production:
 
 ### `npm run deploy`
 
-View this project in online at [https://](https://)
+View this project in online at [https://nostalgic-kilby-786678.netlify.com](https://nostalgic-kilby-786678.netlify.com)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/890ddcda-157d-4865-a6fb-30440fd316db/deploy-status)](https://app.netlify.com/sites/nostalgic-kilby-786678/deploys)
